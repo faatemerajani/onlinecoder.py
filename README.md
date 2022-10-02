@@ -1,1 +1,3 @@
 # onlinecoder.py
+This is not a project...
+I just need a platform to practice where i can access from every platform.
